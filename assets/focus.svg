@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="250" viewBox="0 0 1080 250" role="img">
+  <defs>
+    <linearGradient id="glow" x1="0" x2="1"><stop stop-color="#c8f169" stop-opacity=".2"/><stop offset="1" stop-color="#95d5b2" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1080" height="250" rx="18" fill="#101714"/>
+  <rect x="1" y="1" width="1078" height="248" rx="17" fill="none" stroke="#26362b"/>
+  <text x="28" y="32" fill="#95d5b2" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.2">HOW I BUILD</text>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="24" y="49" width="328" height="176" rx="14" fill="#17221c" stroke="#2b3b2d"/>
+    <rect x="24" y="49" width="328" height="4" rx="2" fill="#c8f169"/>
+    <text x="44" y="82" fill="#e7eee8" font-size="19" font-weight="700">Backend systems</text>
+    <text x="44" y="104" fill="#9eaea2" font-size="12">APIs  ·  application logic  ·  data flow</text>
+    <path d="M60 155h68m10 0h68m-78 0v30m78-30v30m-78 0h78" fill="none" stroke="#527955" stroke-width="2"/>
+    <circle cx="60" cy="155" r="8" fill="#c8f169"/><circle cx="138" cy="155" r="8" fill="#95d5b2"/><circle cx="216" cy="155" r="8" fill="#c8f169"/>
+    <circle cx="138" cy="185" r="7" fill="#4a704b"/><circle cx="216" cy="185" r="7" fill="#4a704b"/>
+    <text x="240" y="163" fill="#9eaea2" font-size="11">ROUTE</text>
+    <text x="240" y="184" fill="#9eaea2" font-size="11">STORE</text>
+
+    <rect x="376" y="49" width="328" height="176" rx="14" fill="#17221c" stroke="#2b3b2d"/>
+    <rect x="376" y="49" width="328" height="4" rx="2" fill="#95d5b2"/>
+    <text x="396" y="82" fill="#e7eee8" font-size="19" font-weight="700">Full-stack delivery</text>
+    <text x="396" y="104" fill="#9eaea2" font-size="12">interface  ·  services  ·  product</text>
+    <rect x="400" y="139" width="82" height="44" rx="9" fill="#22382a" stroke="#456647"/>
+    <rect x="498" y="139" width="82" height="44" rx="9" fill="#22382a" stroke="#456647"/>
+    <rect x="596" y="139" width="82" height="44" rx="9" fill="#22382a" stroke="#456647"/>
+    <text x="441" y="166" fill="#e7eee8" font-size="12" font-weight="700" text-anchor="middle">UI</text>
+    <text x="539" y="166" fill="#e7eee8" font-size="12" font-weight="700" text-anchor="middle">API</text>
+    <text x="637" y="166" fill="#e7eee8" font-size="12" font-weight="700" text-anchor="middle">DATA</text>
+    <path d="M482 161h12m86 0h12" stroke="#c8f169" stroke-width="2"/><path d="m490 157 4 4-4 4m106-8 4 4-4 4" fill="none" stroke="#c8f169" stroke-width="2"/>
+    <text x="400" y="204" fill="#c8f169" font-size="10" font-family="Consolas,monospace">IDEA  →  SHIPPED FEATURE</text>
+
+    <rect x="728" y="49" width="328" height="176" rx="14" fill="#17221c" stroke="#2b3b2d"/>
+    <rect x="728" y="49" width="328" height="4" rx="2" fill="#e7b85c"/>
+    <text x="748" y="82" fill="#e7eee8" font-size="19" font-weight="700">Python &amp; ML</text>
+    <text x="748" y="104" fill="#9eaea2" font-size="12">experiments  ·  applied ideas</text>
+    <path d="M782 153 832 137l47 30 50-27 42 24" fill="none" stroke="#718e55" stroke-width="2"/>
+    <path d="M782 153 830 190l49-23 50 26 42-29" fill="none" stroke="#45694d" stroke-width="2"/>
+    <g fill="#c8f169"><circle cx="782" cy="153" r="6"/><circle cx="832" cy="137" r="6"/><circle cx="879" cy="167" r="6"/><circle cx="929" cy="140" r="6"/><circle cx="971" cy="164" r="6"/></g>
+    <g fill="#95d5b2"><circle cx="830" cy="190" r="5"/><circle cx="929" cy="193" r="5"/><circle cx="971" cy="164" r="5"/></g>
+    <text x="748" y="208" fill="#c8f169" font-size="10" font-family="Consolas,monospace">PYTHON  /  MACHINE LEARNING</text>
+  </g>
+</svg>

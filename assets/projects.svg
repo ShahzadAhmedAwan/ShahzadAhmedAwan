@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="250" viewBox="0 0 900 250" role="img">
+  <rect width="900" height="250" rx="18" fill="#101714"/><rect x="1" y="1" width="898" height="248" rx="17" fill="none" stroke="#26362b"/>
+  <text x="28" y="39" fill="#95d5b2" font-family="Consolas,monospace" font-size="12" font-weight="700" letter-spacing="1">BUILD LOG  /  PROJECTS</text>
+  <rect x="28" y="61" width="844" height="151" rx="14" fill="#17221c" stroke="#2b3b2d"/>
+  <text x="54" y="99" fill="#c8f169" font-family="Consolas,monospace" font-size="12" font-weight="700">GET</text>
+  <text x="94" y="99" fill="#e7eee8" font-family="Consolas,monospace" font-size="12">/users/ShahzadAhmedAwan/repos</text>
+  <path d="M54 121h735" stroke="#2b3b2d"/>
+  <text x="54" y="157" fill="#e7eee8" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">Project cards appear after the first sync.</text>
+  <text x="54" y="184" fill="#9eaea2" font-family="Segoe UI,Arial,sans-serif" font-size="13">Latest original repos · description · language · stars</text>
+  <rect x="748" y="145" width="94" height="34" rx="9" fill="#26362b" stroke="#527955"/>
+  <text x="795" y="167" fill="#c8f169" font-family="Consolas,monospace" font-size="10" font-weight="700" text-anchor="middle">SYNC PENDING</text>
+  <text x="28" y="231" fill="#718372" font-family="Consolas,monospace" font-size="11">SOURCE  ·  GITHUB PUBLIC REPOSITORIES</text>
+</svg>

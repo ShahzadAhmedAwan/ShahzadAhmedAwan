@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="132" viewBox="0 0 1000 132" role="img">
+  <defs><linearGradient id="wash" x1="0" x2="1"><stop stop-color="#1b3024"/><stop offset="1" stop-color="#101714"/></linearGradient></defs>
+  <rect width="1000" height="132" rx="18" fill="url(#wash)"/><rect x="1" y="1" width="998" height="130" rx="17" fill="none" stroke="#36533a"/>
+  <path d="M0 104h330l28-28h141" fill="none" stroke="#527955" stroke-width="1" opacity=".55"/><circle cx="500" cy="76" r="4" fill="#c8f169"/>
+  <text x="32" y="44" fill="#95d5b2" font-family="Consolas,monospace" font-size="12" font-weight="700" letter-spacing="1">HAVE A PRODUCT IDEA?</text>
+  <text x="32" y="83" fill="#e7eee8" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="700">Let’s build the system behind it.</text>
+  <rect x="756" y="39" width="210" height="54" rx="12" fill="#c8f169"/>
+  <text x="861" y="72" fill="#101714" font-family="Consolas,monospace" font-size="13" font-weight="700" text-anchor="middle">CONNECT  ↗</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="142" viewBox="0 0 1000 142" role="img">
+  <rect width="1000" height="142" rx="18" fill="#101714"/>
+  <rect x="1" y="1" width="998" height="140" rx="17" fill="none" stroke="#26362b"/>
+  <text x="25" y="29" fill="#95d5b2" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">LANGUAGES &amp; TOOLS</text>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+    <g><rect x="24" y="44" width="108" height="36" rx="10" fill="#263044"/><text x="78" y="67" fill="#b7c8ff">PHP</text></g>
+    <g><rect x="143" y="44" width="122" height="36" rx="10" fill="#362a25"/><text x="204" y="67" fill="#ffaaa0">LARAVEL</text></g>
+    <g><rect x="276" y="44" width="112" height="36" rx="10" fill="#26362b"/><text x="332" y="67" fill="#c8f169">PYTHON</text></g>
+    <g><rect x="399" y="44" width="100" height="36" rx="10" fill="#263044"/><text x="449" y="67" fill="#b7c8ff">HTML</text></g>
+    <g><rect x="510" y="44" width="94" height="36" rx="10" fill="#263044"/><text x="557" y="67" fill="#b7c8ff">CSS</text></g>
+    <g><rect x="615" y="44" width="132" height="36" rx="10" fill="#3a3425"/><text x="681" y="67" fill="#f4d875">JAVASCRIPT</text></g>
+    <g><rect x="758" y="44" width="104" height="36" rx="10" fill="#263044"/><text x="810" y="67" fill="#b7c8ff">REACT</text></g>
+    <g><rect x="873" y="44" width="102" height="36" rx="10" fill="#263044"/><text x="924" y="67" fill="#b7c8ff">GIT</text></g>
+    <g><rect x="353" y="93" width="142" height="34" rx="10" fill="#263044"/><text x="424" y="115" fill="#b7c8ff">GITHUB</text></g>
+    <g><rect x="506" y="93" width="224" height="34" rx="10" fill="#30293b"/><text x="618" y="115" fill="#d8b8ff">MACHINE LEARNING</text></g>
+  </g>
+</svg>
